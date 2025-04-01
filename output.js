@@ -1,5 +1,3 @@
 "use strict";
 
-var hello = function hello() {
-  return console.log("hello world!");
-};
+const hello = () => console.log("hello world!");
